@@ -1,0 +1,94 @@
+/*General*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	list-style-type: none;
+}
+H3{
+	font-size: 28px;
+	color: #171717;
+}
+H2{
+	font-size: 38px;
+	color: white;
+}
+/*Header*/
+header{
+	width: 1920px;
+	background-color: blue;
+	height: 300px;
+}
+nav a{
+	color: white;
+}
+nav{
+	margin-left: 240px;
+}
+.navbar a:hover{
+text-transform: uppercase;
+}
+header button{
+	background-color: white;
+  	border: none;
+  	border-radius: 28px;
+  	color: #171717;
+  	padding: 18px 36px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+  	font-weight: bolder;
+}
+header button hover{
+	text-transform: uppercase;
+}
+header img{
+	width: 115px;
+	height: 65px;
+	margin-top: 40px;
+	margin-left: 240px;
+}
+/*Section*/
+section{
+	margin-bottom: 30px;
+}
+.main-image{
+	width: 100%;
+	height: 600px;
+	margin-bottom: 30px;
+}
+.images img{
+	width: 219px;
+	height: 219px;
+	margin-right: 16px;
+}
+.images{
+	width: 1195px;
+	margin-top: 60px;
+	margin-bottom: 60px ;
+}
+.blog{
+	width: 1195px;
+	margin-left: 362px;
+	background-color: white;
+}
+section p{
+	line-height: 26px;
+}
+section button{
+	background-color: #0A22F4; /* Blue */
+  	border: none;
+  	border-radius: 28px;
+  	color: white;
+  	padding: 18px 57px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+}
