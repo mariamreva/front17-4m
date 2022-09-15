@@ -51,7 +51,7 @@ header button{
   	font-weight: bolder;
   	cursor:pointer;
 }
-header button hover{
+header button:hover{
 	text-transform: uppercase;
 }
 header img{
